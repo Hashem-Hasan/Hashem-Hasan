@@ -52,6 +52,23 @@ Live projects from my [Tarneeb Tech portfolio](https://www.tarneebtech.com/). Cl
 
 <br>
 
+## The open-source workbench
+
+<a href="https://hashem-hasan.github.io/"><img src="./assets/open-source-lab.svg" width="100%" alt="The open lab — practical tools, public code, implementation and trade-offs"></a>
+
+Working projects you can clone, run and inspect. Each repository includes setup instructions, meaningful tests and a clear account of its scope.
+
+| Product      | Explore the implementation                                                                                         | What is inside                                                               |
+| :----------- | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **Rowcraft** | [CSV & JSON workbench](https://github.com/Hashem-Hasan/Data-Sorter)                                                | Local parsing, stable sorting, search, deduplication and exports             |
+| **Linklane** | [Self-hosted link workspace](https://github.com/Hashem-Hasan/Simple-URL-Shortener-made-with-React.js-Next.js)      | Node.js APIs, SQLite persistence, workspace isolation and expiring redirects |
+| **SkyScan**  | [City-first weather](https://github.com/Hashem-Hasan/Weather-Tracker-by-IP-made-with-React.js-and-TailwindCSS)     | Forecast APIs, saved places, units and explicit offline fallback             |
+| **Mintline** | [Financial product concept](https://github.com/Hashem-Hasan/Banking-Website-Landpage-React.js-Next.js-TailwindCSS) | Responsive product design and a tested savings planner                       |
+
+**[Explore the developer portfolio →](https://hashem-hasan.github.io/)** · **[View its source →](https://github.com/Hashem-Hasan/hashem-hasan.github.io)**
+
+<br>
+
 ## My working stack
 
 <p>
@@ -65,11 +82,11 @@ Live projects from my [Tarneeb Tech portfolio](https://www.tarneebtech.com/). Cl
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git">
 </p>
 
-| Frontend | Backend & data | Development & design |
-| :--- | :--- | :--- |
-| React · Next.js · JavaScript (ES6+) | Node.js · Express · REST APIs | Git · GitHub · Code review |
-| HTML5 · CSS3 · Tailwind · SASS/LESS | MongoDB · Mongoose · Data modeling | Responsive design · UI/UX principles |
-| Redux · Context API · Axios · Fetch | Authentication · Authorization | Debugging · Performance optimization |
+| Frontend                                       | Backend & data                       | Development & design                 |
+| :--------------------------------------------- | :----------------------------------- | :----------------------------------- |
+| React · Next.js · JavaScript (ES6+)            | Node.js · Express · REST APIs        | Git · GitHub · Code review           |
+| HTML5 · CSS3 · Tailwind · SASS/LESS            | MongoDB · Mongoose · Data modeling   | Responsive design · UI/UX principles |
+| Redux · Context API · Axios · Fetch            | Authentication · Authorization       | Debugging · Performance optimization |
 | Server-side rendering · Component architecture | Query optimization · API integration | Photoshop · Premiere · After Effects |
 
 <br>

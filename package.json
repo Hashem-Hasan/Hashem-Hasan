@@ -1,0 +1,11 @@
+{
+  "name": "hashem-github-profile",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/check-profile.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
