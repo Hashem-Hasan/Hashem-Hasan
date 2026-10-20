@@ -1,24 +1,85 @@
-<h1 align="center">Hi 👋, I'm Hashem Hasan</h1>
-<h3 align="center">A passionate frontend developer from Jordan</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashem-hasan" alt="hashem-hasan" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks and libraries**
-
-- 👨‍💻 All of my projects are available at [Hashem.top](Hashem.top)
-
-- 💬 Ask me about **react, next.js**
-
-- 📫 How to reach me **cozlgames@gmail.com**
-
-- 📄 Know about my experiences [Hashem.top](Hashem.top)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hashem-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashem-hasan" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-dark.svg" alt="Hashem Hasan — Full-stack developer. Thoughtful interfaces. Connected systems." width="100%">
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.tarneebtech.com/"><img src="https://img.shields.io/badge/Explore_my_work-C5F86A?style=for-the-badge&logo=googlechrome&logoColor=101820" alt="Explore my work"></a>
+  <a href="https://www.linkedin.com/in/hashem-hasan"><img src="https://img.shields.io/badge/LinkedIn-121C2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cozlgames@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-121C2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hashem"></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashem-hasan&show_icons=true&locale=en&layout=compact" alt="hashem-hasan" /></p>
+<p align="center"><strong>Based in Jordan · Open to remote work worldwide · Arabic & English</strong></p>
+
+<br>
+
+## From the interface to the database.
+
+I'm **Hashem**, a full-stack developer working with **React, Next.js, Node.js, Express and MongoDB**. I turn business requirements into responsive interfaces, connected APIs and practical web products.
+
+My background in multimedia design shapes how I approach the frontend: clear visual hierarchy, usable flows and attention to the details people actually interact with. I'm also pursuing a degree in **Data Science and Artificial Intelligence** at Al Al-Bayt University.
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><h3>01 / Interfaces</h3><p>React & Next.js applications, responsive layouts, reusable components, state management and server-side rendering.</p></td>
+    <td width="33%" valign="top"><h3>02 / Systems</h3><p>Node.js & Express services, RESTful APIs, authentication, MongoDB data models and frontend–backend integration.</p></td>
+    <td width="33%" valign="top"><h3>03 / Craft</h3><p>UI/UX principles, performance work, systematic debugging and a visual background in Photoshop, Premiere and After Effects.</p></td>
+  </tr>
+</table>
+
+<br>
+
+## Selected work
+
+Live projects from my [Tarneeb Tech portfolio](https://www.tarneebtech.com/). Client source repositories remain private.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.bpmarabia.app/"><img src="./assets/project-bpm.svg" width="100%" alt="BPM Arabia — Business process documentation, workflow mapping and archiving"></a></td>
+    <td width="50%"><a href="https://janzeerprofessional.com/"><img src="./assets/project-janzeer.svg" width="100%" alt="Janzeer Professional — Haircare and personal-care ecommerce"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.yawkeys.com/"><img src="./assets/project-yawkeys.svg" width="100%" alt="Yawkeys — Video game price comparison and deal discovery"></a></td>
+    <td width="50%"><a href="https://cipherlens.vercel.app/"><img src="./assets/project-cipherlens.svg" width="100%" alt="CipherLens — Password-sample analysis, classification and metrics interface"></a></td>
+  </tr>
+</table>
+
+**Also in the portfolio:** [Mouj Al Bahr](https://www.mojalbahr.com/ar) · [Growth Point](https://www.growthpointjo.com/) · [Dallas Phone Resale](https://dallasphoneresale.vercel.app/) · [Haqqi](https://majdaljamzawe.tarneebtech.com/)
+
+<br>
+
+## My working stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+</p>
+
+| Frontend | Backend & data | Development & design |
+| :--- | :--- | :--- |
+| React · Next.js · JavaScript (ES6+) | Node.js · Express · REST APIs | Git · GitHub · Code review |
+| HTML5 · CSS3 · Tailwind · SASS/LESS | MongoDB · Mongoose · Data modeling | Responsive design · UI/UX principles |
+| Redux · Context API · Axios · Fetch | Authentication · Authorization | Debugging · Performance optimization |
+| Server-side rendering · Component architecture | Query optimization · API integration | Photoshop · Premiere · After Effects |
+
+<br>
+
+## Let's build something useful.
+
+I'm open to remote **full-stack, frontend, web and integration development** opportunities, along with relevant creative and practical AI work.
+
+**[See my portfolio →](https://www.tarneebtech.com/)** &nbsp;&nbsp; **[Connect on LinkedIn →](https://www.linkedin.com/in/hashem-hasan)** &nbsp;&nbsp; **[Email me →](mailto:cozlgames@gmail.com)**
+
+<br>
+
+<p align="center"><sub>Thoughtful interfaces. Connected systems. Work you can explore.</sub></p>
