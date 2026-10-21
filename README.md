@@ -58,6 +58,19 @@ Live projects from my [Tarneeb Tech portfolio](https://www.tarneebtech.com/). Cl
 
 Working projects you can clone, run and inspect. Each repository includes setup instructions, meaningful tests and a clear account of its scope.
 
+### Developer tools, built around real failure cases
+
+Four focused projects with installable code, working demos, browser tests and documented trade-offs.
+
+| Project                                                          | Use it                                                                       | Inspect the implementation                                                                                                                 |
+| :--------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **[MirrorQA](https://github.com/Hashem-Hasan/mirrorqa)**         | [Bilingual UI regression checks](https://hashem-hasan.github.io/mirrorqa/)   | Playwright CLI, annotated evidence, visual baselines and a report explorer.                                                                |
+| **[HookLab](https://github.com/Hashem-Hasan/hooklab)**           | [Webhook failure workbench](https://hashem-hasan.github.io/hooklab/)         | Signed HTTP delivery, a durable SQLite queue and repeatable recovery assertions. Public demo: browser simulation.                          |
+| **[ImportClinic](https://github.com/Hashem-Hasan/importclinic)** | [Reusable React import wizard](https://hashem-hasan.github.io/importclinic/) | Map columns, repair row errors and review locale-aware data before an explicit handoff.                                                    |
+| **[BriefForge](https://github.com/Hashem-Hasan/briefforge)**     | [Evidence-linked scope drafts](https://hashem-hasan.github.io/briefforge/)   | Trace requirements to their source, preserve unknowns and review edits. Public demo: local rule-based mode; optional AI adapter in source. |
+
+### More from the workbench
+
 | Product      | Explore the implementation                                                                                         | What is inside                                                               |
 | :----------- | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
 | **Rowcraft** | [CSV & JSON workbench](https://github.com/Hashem-Hasan/Data-Sorter)                                                | Local parsing, stable sorting, search, deduplication and exports             |

@@ -13,9 +13,13 @@ for (const repo of [
   'Weather-Tracker-by-IP-made-with-React.js-and-TailwindCSS',
   'Banking-Website-Landpage-React.js-Next.js-TailwindCSS',
   'hashem-hasan.github.io',
+  'mirrorqa',
+  'hooklab',
+  'importclinic',
+  'briefforge',
 ])
   if (!text.includes(`github.com/Hashem-Hasan/${repo}`))
     throw Error(`Missing public project: ${repo}`);
 console.log(
-  `Profile verified: ${checked} local image references and all five public project links.`
+  `Profile verified: ${checked} local image references and all nine public project links.`
 );
